@@ -6,5 +6,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/User")
 public class UserController {
+	
+	
+	public void login() {
+		
+	}
 
 }
